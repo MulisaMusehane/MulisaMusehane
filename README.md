@@ -21,10 +21,6 @@
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   - ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-- 🌟 **Skills and Interests:**
-  - Business Analysis
-  - UI/UX Design
-  - Front-End Development
 
 ## 📫 Connect with Me
 
