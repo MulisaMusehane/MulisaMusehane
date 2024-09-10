@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  <b>Final-year BSc Information and Knowledge Systems </br>(Computer Science, Informatics & Multimedia) student<b/>
+  <b>Final-year BSc Information and Knowledge Systems </br>(Computer Science, Informatics & Multimedia) student  at the University of Pretoria.<b/>
     
-  </br> at the University of Pretoria.
 </p>
 
 ## 🚀 About Me
