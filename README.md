@@ -1,14 +1,8 @@
 <h1 align="center">Hi, I'm Mulisa Musehane 👋</h1>
 
 <p align="center">
-  <b>BSc Information and Knowledge Systems Graduate </br> </br> BScHons Computer Science Student at the University of Pretoria.</b>
+  <b>BSc Information and Knowledge Systems Graduate </br> </br> BScHons Computer Science Student </br> </br> at the University of Pretoria.</b>
 </p>
-
-## 🚀 
-<p align="center">
-  <b>Here for fun.</b>
-</p>
-
 
 
 ## 📫 Connect with Me  
