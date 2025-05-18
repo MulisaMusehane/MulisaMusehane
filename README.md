@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Mulisa Musehane 👋</h1>
 
 <p align="center">
-  <b>BSc Information and Knowledge Systems Graduate </br> </br> BScHons Computer Science Student </br> </br> Junior Software Engineer </b>  Doppelganger - <a href="https://github.com/mulisa-musehane" target="_blank"> </a> </b>
+  <b>BSc Information and Knowledge Systems Graduate </br> </br> BScHons Computer Science Student </br> </br> Junior Software Engineer </b> 
+ <p align="center"> Doppelganger -</p> <a href="https://github.com/mulisa-musehane" target="_blank"> </a> </b>
 </p>
 
 
